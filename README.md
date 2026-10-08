@@ -1,2 +1,2 @@
 # Hackathon-Bytexl
-Octuber 2026 hackathom organise by Bytexl
+Octuber 2026 hackathon organise by Bytexl
